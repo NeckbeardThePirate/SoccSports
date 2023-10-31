@@ -48,7 +48,7 @@ header h1 {
     border-right: 2px solid black;
     height: 100%;
     overflow-y: auto;
-
+    padding: 1rem;
 }
 
 .nav-link {
